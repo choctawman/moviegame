@@ -119,6 +119,7 @@ Double-click:
 - install Node.js, PostgreSQL, and Redis
 - create `.env` from `.env.example`
 - install npm packages
+- restore the bundled shared league snapshot on a fresh install
 - launch the game
 
 After that, `Start Movie Game.command` will automatically:
@@ -129,6 +130,8 @@ After that, `Start Movie Game.command` will automatically:
 - seeds commissioner user
 - builds and starts web + worker
 - opens the app in your browser
+
+Tester account emails and the shared password are listed in `TESTER-LOGINS.md`.
 
 To stop everything, double-click:
 
@@ -154,6 +157,8 @@ npm run start
 ```
 
 ## Import Real Movies and Players
+
+If you are using the bundled shared snapshot from this repo, you do not need to run this import step just to see the shared test league. This section is only for refreshing or replacing the shared data with new TMDB-backed data.
 
 1. Make sure `TMDB_API_KEY` is set in `.env`.
 2. Start app + worker (using `Start Movie Game.command` is easiest).

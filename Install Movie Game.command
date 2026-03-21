@@ -4,6 +4,7 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 source "./scripts/macos-common.sh"
+source "./scripts/shared-db-snapshot.sh"
 
 ensure_macos
 ensure_log_dir

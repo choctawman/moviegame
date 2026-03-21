@@ -4,6 +4,7 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 source "./scripts/macos-common.sh"
+source "./scripts/shared-db-snapshot.sh"
 
 wait_for_http() {
   local url="$1"
@@ -114,6 +115,7 @@ psql -d postgres -c "GRANT ALL PRIVILEGES ON DATABASE moviegame TO moviegame;" >
 
 npx prisma migrate deploy >/dev/null
 npm run prisma:generate >/dev/null
+restore_shared_snapshot_if_needed
 npm run seed >/dev/null
 npm run build >/dev/null
 

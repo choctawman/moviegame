@@ -1,0 +1,23 @@
+{
+  "sharedPassword": "moviegame123",
+  "accounts": [
+    {
+      "email": "commissioner@example.com"
+    },
+    {
+      "email": "opening.weekend@example.com"
+    },
+    {
+      "email": "box.office@example.com"
+    },
+    {
+      "email": "critics.cut@example.com"
+    },
+    {
+      "email": "silver.screen@example.com"
+    },
+    {
+      "email": "lucky.losers@example.com"
+    }
+  ]
+}
