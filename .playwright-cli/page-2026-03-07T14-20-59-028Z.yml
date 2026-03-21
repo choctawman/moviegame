@@ -1,0 +1,31 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e131123]
+  - generic [ref=e131362]:
+    - banner [ref=e131363]:
+      - generic [ref=e131364]:
+        - link "Movie Fantasy" [ref=e131365] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e131366]:
+          - button "Switch to light mode" [ref=e131367]: Light mode
+          - button "Back" [ref=e131368]
+      - heading "Courteney Cox" [level=1] [ref=e131370]
+    - main [ref=e131371]:
+      - generic [ref=e131373]:
+        - img "Courteney Cox headshot" [ref=e131374]
+        - generic [ref=e131375]:
+          - paragraph [ref=e131376]: "Roles: Leading Actress"
+          - paragraph [ref=e131377]: "Movies this season: 1"
+      - generic [ref=e131378]:
+        - heading "2026 Season Movies" [level=2] [ref=e131379]
+        - link "Scream 7 poster Scream 7 2026" [ref=e131381] [cursor=pointer]:
+          - /url: /movies/cmm6yprhs0lwmtsa114wrdoxe?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+          - img "Scream 7 poster" [ref=e131382]
+          - generic [ref=e131383]:
+            - paragraph [ref=e131384]: Scream 7
+            - paragraph [ref=e131385]: "2026"
+      - generic [ref=e131386]:
+        - heading "Last Year Points Breakdown" [level=2] [ref=e131387]
+        - paragraph [ref=e131388]: No 2025 associated movies found.
+      - generic [ref=e131389]:
+        - heading "Recent Monthly Scores" [level=2] [ref=e131390]
+        - paragraph [ref=e131391]: No scoring snapshots yet.

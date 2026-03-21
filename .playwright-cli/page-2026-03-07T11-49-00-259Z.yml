@@ -1,0 +1,24 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Movie Fantasy" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e7]:
+          - button "Switch to light mode" [ref=e8]: Light mode
+          - button "Back" [ref=e9]
+      - heading "Login" [level=1] [ref=e11]
+    - main [ref=e12]:
+      - generic [ref=e14]:
+        - generic [ref=e15]:
+          - generic [ref=e16]: Email
+          - textbox [ref=e17]
+        - generic [ref=e18]:
+          - generic [ref=e19]: Password
+          - textbox [ref=e20]
+        - button "Log In" [ref=e21]
+      - paragraph [ref=e23]:
+        - text: New here?
+        - link "Create account" [ref=e24] [cursor=pointer]:
+          - /url: /signup
+  - alert [ref=e25]

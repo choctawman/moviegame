@@ -1,0 +1,72 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Movie Fantasy" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e7]:
+          - button "Switch to light mode" [ref=e8]: Light mode
+          - button "Back" [ref=e9]
+      - heading "Zendaya" [level=1] [ref=e11]
+    - main [ref=e12]:
+      - generic [ref=e14]:
+        - img "Zendaya headshot" [ref=e15]
+        - generic [ref=e16]:
+          - paragraph [ref=e17]: "Roles: Leading Actress • Supporting"
+          - paragraph [ref=e18]: "Movies this season: 4"
+      - generic [ref=e19]:
+        - heading "2026 Season Movies" [level=2] [ref=e20]
+        - generic [ref=e21]:
+          - link "The Drama poster The Drama 4/3/2026 Fame 72.4 Box 0.00 RT 0" [ref=e22] [cursor=pointer]:
+            - /url: /movies/cmm6yr5160qgbtsa16560hy3z?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - img "The Drama poster" [ref=e24]
+            - generic [ref=e25]:
+              - paragraph [ref=e26]: The Drama
+              - generic [ref=e27]:
+                - paragraph [ref=e28]: 4/3/2026
+                - paragraph [ref=e29]: Fame 72.4
+                - paragraph [ref=e30]: Box 0.00
+                - paragraph [ref=e31]: RT 0
+          - link "The Odyssey poster The Odyssey 7/17/2026 Fame 217.7 Box 0.00 RT 0" [ref=e32] [cursor=pointer]:
+            - /url: /movies/cmm6ys2360xqbtsa1084ek5nc?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - img "The Odyssey poster" [ref=e34]
+            - generic [ref=e35]:
+              - paragraph [ref=e36]: The Odyssey
+              - generic [ref=e37]:
+                - paragraph [ref=e38]: 7/17/2026
+                - paragraph [ref=e39]: Fame 217.7
+                - paragraph [ref=e40]: Box 0.00
+                - paragraph [ref=e41]: RT 0
+          - 'link "Spider-Man: Brand New Day poster Spider-Man: Brand New Day 7/31/2026 Fame 80.3 Box 0.00 RT 0" [ref=e42] [cursor=pointer]':
+            - /url: /movies/cmm6ys3km0y1otsa1c7rmm45e?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - 'img "Spider-Man: Brand New Day poster" [ref=e44]'
+            - generic [ref=e45]:
+              - paragraph [ref=e46]: "Spider-Man: Brand New Day"
+              - generic [ref=e47]:
+                - paragraph [ref=e48]: 7/31/2026
+                - paragraph [ref=e49]: Fame 80.3
+                - paragraph [ref=e50]: Box 0.00
+                - paragraph [ref=e51]: RT 0
+          - 'link "Dune: Part Three poster Dune: Part Three 12/18/2026 Fame 103.0 Box 0.00 RT 0" [ref=e52] [cursor=pointer]':
+            - /url: /movies/cmm6ysp4x12xbtsa157jzvuir?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - 'img "Dune: Part Three poster" [ref=e54]'
+            - generic [ref=e55]:
+              - paragraph [ref=e56]: "Dune: Part Three"
+              - generic [ref=e57]:
+                - paragraph [ref=e58]: 12/18/2026
+                - paragraph [ref=e59]: Fame 103.0
+                - paragraph [ref=e60]: Box 0.00
+                - paragraph [ref=e61]: RT 0
+      - generic [ref=e62]:
+        - heading "Last Year Points Breakdown" [level=2] [ref=e63]
+        - generic [ref=e64]:
+          - paragraph [ref=e65]: "2025 total: 97.43 points (Box: 0.43 • RT: 97)"
+          - list [ref=e66]:
+            - listitem [ref=e67]:
+              - paragraph [ref=e68]: "Hans Zimmer & Friends: Diamond in the Desert (2025)"
+              - paragraph [ref=e69]: "Box office: 0.43 • RT: 97 • Total: 97.43"
+              - paragraph [ref=e70]: "Credits: Cast"
+      - generic [ref=e71]:
+        - heading "Recent Monthly Scores" [level=2] [ref=e72]
+        - paragraph [ref=e73]: No scoring snapshots yet.
+  - alert [ref=e74]

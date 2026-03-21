@@ -4,23 +4,56 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "dev:web": "next dev",
+    "dev:worker": "tsx watch src/server/worker.ts",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate dev",
+    "prisma:studio": "prisma studio",
+    "seed": "tsx src/scripts/seed.ts",
+    "seed:random-rosters": "tsx src/scripts/fill-random-rosters.ts",
+    "backfill:player-season-stats": "tsx src/scripts/backfill-player-season-stats.ts",
+    "switch:monthly": "tsx src/scripts/switch-leagues-to-monthly.ts",
+    "commissioner:add": "tsx src/scripts/add-commissioner.ts",
+    "jobs:enqueue-dev": "tsx src/scripts/enqueue-dev-jobs.ts",
+    "backfill:previous-season": "tsx src/scripts/backfill-previous-season-movies.ts",
+    "backfill:wayback-box-office": "tsx src/scripts/backfill-wayback-box-office.ts",
+    "screenshots:capture": "tsx src/scripts/capture-page-screenshots.ts"
   },
   "dependencies": {
+    "@prisma/client": "^6.16.2",
+    "argon2": "^0.44.0",
+    "bottleneck": "^2.19.5",
+    "bullmq": "^5.70.1",
+    "cheerio": "^1.2.0",
+    "cookie": "^1.1.1",
+    "dotenv": "^17.3.1",
+    "ioredis": "^5.9.3",
+    "luxon": "^3.7.2",
     "next": "16.1.6",
+    "prisma": "^6.16.2",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "socket.io": "^4.8.3",
+    "zod": "^4.3.6"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/luxon": "^3.7.1",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@vitest/coverage-v8": "^4.0.18",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
+    "playwright": "^1.58.2",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "tsx": "^4.21.0",
+    "typescript": "^5",
+    "vitest": "^4.0.18"
   }
 }

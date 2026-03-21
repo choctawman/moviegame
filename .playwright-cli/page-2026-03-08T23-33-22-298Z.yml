@@ -1,0 +1,73 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Movie Fantasy" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e7]:
+          - button "Switch to light mode" [ref=e8]: Light mode
+          - button "Back" [ref=e9]
+      - heading "Jason Statham" [level=1] [ref=e11]
+    - main [ref=e12]:
+      - generic [ref=e14]:
+        - img "Jason Statham headshot" [ref=e15]
+        - generic [ref=e16]:
+          - paragraph [ref=e17]: "Roles: Leading Actor"
+          - paragraph [ref=e18]: "Movies this season: 3"
+      - generic [ref=e19]:
+        - heading "Movies" [level=2] [ref=e20]
+        - generic [ref=e21]:
+          - link "A Working Man poster A Working Man 3/28/2025 Fame 140.1 Box 0.00 RT 0 Open Movie" [ref=e22] [cursor=pointer]:
+            - /url: /movies/cmm6z8up421jgtsa15whorl8d
+            - generic [ref=e23]:
+              - img "A Working Man poster" [ref=e25]
+              - generic [ref=e26]:
+                - paragraph [ref=e27]: A Working Man
+                - generic [ref=e28]:
+                  - generic [ref=e29]: 3/28/2025
+                  - generic [ref=e30]: Fame 140.1
+                  - generic [ref=e31]: Box 0.00
+                  - generic [ref=e32]: RT 0
+                - paragraph [ref=e33]: Open Movie
+          - link "Shelter poster Shelter 1/30/2026 Fame 123.2 Box 0.00 RT 150 Open Movie" [ref=e34] [cursor=pointer]:
+            - /url: /movies/cmm6ynbgg0fa3tsa1ym8xw7i4
+            - generic [ref=e35]:
+              - img "Shelter poster" [ref=e37]
+              - generic [ref=e38]:
+                - paragraph [ref=e39]: Shelter
+                - generic [ref=e40]:
+                  - generic [ref=e41]: 1/30/2026
+                  - generic [ref=e42]: Fame 123.2
+                  - generic [ref=e43]: Box 0.00
+                  - generic [ref=e44]: RT 150
+                - paragraph [ref=e45]: Open Movie
+          - link "Mutiny poster Mutiny 8/21/2026 Fame 65.6 Box 0.00 RT 0 Open Movie" [ref=e46] [cursor=pointer]:
+            - /url: /movies/cmm6ys7xi0ze5tsa1mbdp47x6
+            - generic [ref=e47]:
+              - img "Mutiny poster" [ref=e49]
+              - generic [ref=e50]:
+                - paragraph [ref=e51]: Mutiny
+                - generic [ref=e52]:
+                  - generic [ref=e53]: 8/21/2026
+                  - generic [ref=e54]: Fame 65.6
+                  - generic [ref=e55]: Box 0.00
+                  - generic [ref=e56]: RT 0
+                - paragraph [ref=e57]: Open Movie
+      - generic [ref=e58]:
+        - heading "Last Year Points Breakdown" [level=2] [ref=e59]
+        - paragraph [ref=e60]: Open this player from a league context to see last year scoring details.
+      - generic [ref=e61]:
+        - heading "Recent Monthly Scores" [level=2] [ref=e62]
+        - list [ref=e63]:
+          - listitem [ref=e64]:
+            - paragraph [ref=e65]: Month 3 • Total 150
+            - paragraph [ref=e66]: "Box: 0 • RT: 150 • RT movies: 1"
+          - listitem [ref=e67]:
+            - paragraph [ref=e68]: Month 2 • Total 150
+            - paragraph [ref=e69]: "Box: 0 • RT: 150 • RT movies: 1"
+          - listitem [ref=e70]:
+            - paragraph [ref=e71]: Month 1 • Total 150
+            - paragraph [ref=e72]: "Box: 0 • RT: 150 • RT movies: 1"
+  - button "Open Next.js Dev Tools" [ref=e78] [cursor=pointer]:
+    - img [ref=e79]
+  - alert [ref=e82]

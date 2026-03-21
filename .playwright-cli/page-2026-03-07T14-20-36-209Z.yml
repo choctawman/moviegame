@@ -1,0 +1,271 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e131123]
+  - generic [ref=e131125]:
+    - banner [ref=e131126]:
+      - generic [ref=e131127]:
+        - link "Movie Fantasy" [ref=e131128] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e131129]:
+          - button "Switch to light mode" [ref=e131130]: Light mode
+          - button "Back" [ref=e131131]
+      - heading "Scream 7" [level=1] [ref=e131133]
+    - main [ref=e131134]:
+      - generic [ref=e131136]:
+        - img "Scream 7 poster" [ref=e131137]
+        - generic [ref=e131138]:
+          - paragraph [ref=e131139]: 2/27/2026
+          - paragraph [ref=e131140]: "Associated people: 33"
+          - generic [ref=e131141]:
+            - generic [ref=e131142]: Fame 166.3
+            - generic [ref=e131143]: Box 0.00
+            - generic [ref=e131144]: RT 214
+          - generic [ref=e131145]:
+            - paragraph [ref=e131146]:
+              - link "View Box Office Mojo" [ref=e131147] [cursor=pointer]:
+                - /url: https://www.boxofficemojo.com/title/tt27047903/
+            - paragraph [ref=e131148]:
+              - link "View Rotten Tomatoes" [ref=e131149] [cursor=pointer]:
+                - /url: https://www.rottentomatoes.com/m/scream_7
+      - generic [ref=e131150]:
+        - heading "Leading Actress" [level=2] [ref=e131151]
+        - generic [ref=e131152]:
+          - link "Courteney Cox photo Courteney Cox Leading Actress" [ref=e131153] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprhy0lwwtsa1aa02ssv7?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131154]:
+              - img "Courteney Cox photo" [ref=e131155]
+              - generic [ref=e131156]:
+                - paragraph [ref=e131157]: Courteney Cox
+                - paragraph [ref=e131158]: Leading Actress
+          - link "Neve Campbell photo Neve Campbell Leading Actress" [ref=e131159] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprhv0lwrtsa1vjwjw8b6?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131160]:
+              - img "Neve Campbell photo" [ref=e131161]
+              - generic [ref=e131162]:
+                - paragraph [ref=e131163]: Neve Campbell
+                - paragraph [ref=e131164]: Leading Actress
+      - generic [ref=e131165]:
+        - heading "Supporting Actor" [level=2] [ref=e131166]
+        - generic [ref=e131167]:
+          - link "Asa Germann photo Asa Germann Supporting Actor" [ref=e131168] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprik0ly5tsa11etobztl?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131169]:
+              - img "Asa Germann photo" [ref=e131170]
+              - generic [ref=e131171]:
+                - paragraph [ref=e131172]: Asa Germann
+                - paragraph [ref=e131173]: Supporting Actor
+          - link "Celeste O'Connor photo Celeste O'Connor Supporting Actor" [ref=e131174] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprim0lyatsa1viiskwss?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131175]:
+              - img "Celeste O'Connor photo" [ref=e131176]
+              - generic [ref=e131177]:
+                - paragraph [ref=e131178]: Celeste O'Connor
+                - paragraph [ref=e131179]: Supporting Actor
+          - link "Cyle Winters photo Cyle Winters Supporting Actor" [ref=e131180] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprjt0m03tsa1lh0irkrm?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131181]:
+              - img "Cyle Winters photo" [ref=e131182]
+              - generic [ref=e131183]:
+                - paragraph [ref=e131184]: Cyle Winters
+                - paragraph [ref=e131185]: Supporting Actor
+          - link "David Arquette photo David Arquette Supporting Actor" [ref=e131186] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprjd0lzetsa14trhgygt?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131187]:
+              - img "David Arquette photo" [ref=e131188]
+              - generic [ref=e131189]:
+                - paragraph [ref=e131190]: David Arquette
+                - paragraph [ref=e131191]: Supporting Actor
+          - link "Ethan Embry photo Ethan Embry Supporting Actor" [ref=e131192] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprir0lyktsa1wka020xw?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131193]:
+              - img "Ethan Embry photo" [ref=e131194]
+              - generic [ref=e131195]:
+                - paragraph [ref=e131196]: Ethan Embry
+                - paragraph [ref=e131197]: Supporting Actor
+          - link "Jason Burkey photo Jason Burkey Supporting Actor" [ref=e131198] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprk70m0stsa1fxsav1tr?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131199]:
+              - img "Jason Burkey photo" [ref=e131200]
+              - generic [ref=e131201]:
+                - paragraph [ref=e131202]: Jason Burkey
+                - paragraph [ref=e131203]: Supporting Actor
+          - link "No photo Jeremy Conner Supporting Actor" [ref=e131204] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprkc0m12tsa1xq7b7qs3?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131205]:
+              - generic [ref=e131206]: No photo
+              - generic [ref=e131207]:
+                - paragraph [ref=e131208]: Jeremy Conner
+                - paragraph [ref=e131209]: Supporting Actor
+          - link "Jimmy Tatro photo Jimmy Tatro Supporting Actor" [ref=e131210] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprih0ly0tsa1axnk3eut?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131211]:
+              - img "Jimmy Tatro photo" [ref=e131212]
+              - generic [ref=e131213]:
+                - paragraph [ref=e131214]: Jimmy Tatro
+                - paragraph [ref=e131215]: Supporting Actor
+          - link "Joel McHale photo Joel McHale Supporting Actor" [ref=e131216] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprib0lxltsa1sb9zkj2y?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131217]:
+              - img "Joel McHale photo" [ref=e131218]
+              - generic [ref=e131219]:
+                - paragraph [ref=e131220]: Joel McHale
+                - paragraph [ref=e131221]: Supporting Actor
+          - link "No photo Josh Thrower Supporting Actor" [ref=e131222] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprk40m0ntsa1hrpqbx49?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131223]:
+              - generic [ref=e131224]: No photo
+              - generic [ref=e131225]:
+                - paragraph [ref=e131226]: Josh Thrower
+                - paragraph [ref=e131227]: Supporting Actor
+          - link "Kraig Dane photo Kraig Dane Supporting Actor" [ref=e131228] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprjg0lzjtsa19bpuhafn?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131229]:
+              - img "Kraig Dane photo" [ref=e131230]
+              - generic [ref=e131231]:
+                - paragraph [ref=e131232]: Kraig Dane
+                - paragraph [ref=e131233]: Supporting Actor
+          - link "Mark Consuelos photo Mark Consuelos Supporting Actor" [ref=e131234] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprix0lyutsa1vf3dh7np?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131235]:
+              - img "Mark Consuelos photo" [ref=e131236]
+              - generic [ref=e131237]:
+                - paragraph [ref=e131238]: Mark Consuelos
+                - paragraph [ref=e131239]: Supporting Actor
+          - link "Mason Gooding photo Mason Gooding Supporting Actor" [ref=e131240] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ypri50lxbtsa1qninzqu9?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131241]:
+              - img "Mason Gooding photo" [ref=e131242]
+              - generic [ref=e131243]:
+                - paragraph [ref=e131244]: Mason Gooding
+                - paragraph [ref=e131245]: Supporting Actor
+          - link "Matthew Lillard photo Matthew Lillard Supporting Actor" [ref=e131246] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yl0fn00ibtsa1pijm8mar?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131247]:
+              - img "Matthew Lillard photo" [ref=e131248]
+              - generic [ref=e131249]:
+                - paragraph [ref=e131250]: Matthew Lillard
+                - paragraph [ref=e131251]: Supporting Actor
+          - link "Roger L. Jackson photo Roger L. Jackson Supporting Actor" [ref=e131252] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprj00lyztsa1ni08kr7g?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131253]:
+              - img "Roger L. Jackson photo" [ref=e131254]
+              - generic [ref=e131255]:
+                - paragraph [ref=e131256]: Roger L. Jackson
+                - paragraph [ref=e131257]: Supporting Actor
+          - link "Sam Rechner photo Sam Rechner Supporting Actor" [ref=e131258] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprip0lyftsa1jxbv27fw?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131259]:
+              - img "Sam Rechner photo" [ref=e131260]
+              - generic [ref=e131261]:
+                - paragraph [ref=e131262]: Sam Rechner
+                - paragraph [ref=e131263]: Supporting Actor
+          - link "Scott Foley photo Scott Foley Supporting Actor" [ref=e131264] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprj40lz4tsa143ezif8w?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131265]:
+              - img "Scott Foley photo" [ref=e131266]
+              - generic [ref=e131267]:
+                - paragraph [ref=e131268]: Scott Foley
+                - paragraph [ref=e131269]: Supporting Actor
+          - link "Timothy Simons photo Timothy Simons Supporting Actor" [ref=e131270] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ypriu0lyptsa1j0y509x6?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131271]:
+              - img "Timothy Simons photo" [ref=e131272]
+              - generic [ref=e131273]:
+                - paragraph [ref=e131274]: Timothy Simons
+                - paragraph [ref=e131275]: Supporting Actor
+          - link "Victor Turpin photo Victor Turpin Supporting Actor" [ref=e131276] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprjy0m0dtsa1m1ydfnfc?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131277]:
+              - img "Victor Turpin photo" [ref=e131278]
+              - generic [ref=e131279]:
+                - paragraph [ref=e131280]: Victor Turpin
+                - paragraph [ref=e131281]: Supporting Actor
+      - generic [ref=e131282]:
+        - heading "Supporting Actress" [level=2] [ref=e131283]
+        - generic [ref=e131284]:
+          - link "Amy Louise Pemberton photo Amy Louise Pemberton Supporting Actress" [ref=e131285] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprjv0m08tsa1mdwn2whg?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131286]:
+              - img "Amy Louise Pemberton photo" [ref=e131287]
+              - generic [ref=e131288]:
+                - paragraph [ref=e131289]: Amy Louise Pemberton
+                - paragraph [ref=e131290]: Supporting Actress
+          - link "No photo Anah Diamanty Supporting Actress" [ref=e131291] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprk20m0itsa1jgxf012j?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131292]:
+              - generic [ref=e131293]: No photo
+              - generic [ref=e131294]:
+                - paragraph [ref=e131295]: Anah Diamanty
+                - paragraph [ref=e131296]: Supporting Actress
+          - link "Anna Camp photo Anna Camp Supporting Actress" [ref=e131297] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ypri80lxgtsa1c5elz6b1?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131298]:
+              - img "Anna Camp photo" [ref=e131299]
+              - generic [ref=e131300]:
+                - paragraph [ref=e131301]: Anna Camp
+                - paragraph [ref=e131302]: Supporting Actress
+          - link "Annabelle Toomey photo Annabelle Toomey Supporting Actress" [ref=e131303] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprjn0lzttsa1vsfc0or5?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131304]:
+              - img "Annabelle Toomey photo" [ref=e131305]
+              - generic [ref=e131306]:
+                - paragraph [ref=e131307]: Annabelle Toomey
+                - paragraph [ref=e131308]: Supporting Actress
+          - link "No photo Carol Hickey Supporting Actress" [ref=e131309] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprk90m0xtsa1yx9y99dy?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131310]:
+              - generic [ref=e131311]: No photo
+              - generic [ref=e131312]:
+                - paragraph [ref=e131313]: Carol Hickey
+                - paragraph [ref=e131314]: Supporting Actress
+          - link "Isabel May photo Isabel May Supporting Actress" [ref=e131315] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ypri00lx1tsa1eaefgqhn?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131316]:
+              - img "Isabel May photo" [ref=e131317]
+              - generic [ref=e131318]:
+                - paragraph [ref=e131319]: Isabel May
+                - paragraph [ref=e131320]: Supporting Actress
+          - link "Jasmin Savoy Brown photo Jasmin Savoy Brown Supporting Actress" [ref=e131321] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ypri30lx6tsa1e1xb8w4n?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131322]:
+              - img "Jasmin Savoy Brown photo" [ref=e131323]
+              - generic [ref=e131324]:
+                - paragraph [ref=e131325]: Jasmin Savoy Brown
+                - paragraph [ref=e131326]: Supporting Actress
+          - link "Laurie Metcalf photo Laurie Metcalf Supporting Actress" [ref=e131327] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprjq0lzytsa10wruo36t?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131328]:
+              - img "Laurie Metcalf photo" [ref=e131329]
+              - generic [ref=e131330]:
+                - paragraph [ref=e131331]: Laurie Metcalf
+                - paragraph [ref=e131332]: Supporting Actress
+          - link "Maggie Toomey photo Maggie Toomey Supporting Actress" [ref=e131333] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprjk0lzotsa18749gbvh?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131334]:
+              - img "Maggie Toomey photo" [ref=e131335]
+              - generic [ref=e131336]:
+                - paragraph [ref=e131337]: Maggie Toomey
+                - paragraph [ref=e131338]: Supporting Actress
+          - link "Mckenna Grace photo Mckenna Grace Supporting Actress" [ref=e131339] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yl0fw00iqtsa1a2zgaq1a?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131340]:
+              - img "Mckenna Grace photo" [ref=e131341]
+              - generic [ref=e131342]:
+                - paragraph [ref=e131343]: Mckenna Grace
+                - paragraph [ref=e131344]: Supporting Actress
+          - link "Michelle Randolph photo Michelle Randolph Supporting Actress" [ref=e131345] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6yprif0lxvtsa1f9ftanum?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e131346]:
+              - img "Michelle Randolph photo" [ref=e131347]
+              - generic [ref=e131348]:
+                - paragraph [ref=e131349]: Michelle Randolph
+                - paragraph [ref=e131350]: Supporting Actress
+      - generic [ref=e131351]:
+        - heading "Director" [level=2] [ref=e131352]
+        - 'link "Kevin Williamson photo Kevin Williamson Director Job: Director" [ref=e131354] [cursor=pointer]':
+          - /url: /fantasy-players/cmm6yprkz0m27tsa12vorlkpr?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+          - generic [ref=e131355]:
+            - img "Kevin Williamson photo" [ref=e131356]
+            - generic [ref=e131357]:
+              - paragraph [ref=e131358]: Kevin Williamson
+              - paragraph [ref=e131359]: Director
+              - paragraph [ref=e131360]: "Job: Director"

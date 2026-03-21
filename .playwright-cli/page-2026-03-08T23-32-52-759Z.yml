@@ -1,0 +1,253 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Movie Fantasy" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e7]:
+          - button "Switch to light mode" [ref=e8]: Light mode
+          - button "Back" [ref=e9]
+      - heading "Shelter" [level=1] [ref=e11]
+    - main [ref=e12]:
+      - generic [ref=e14]:
+        - img "Shelter poster" [ref=e15]
+        - generic [ref=e16]:
+          - paragraph [ref=e17]: 1/30/2026
+          - paragraph [ref=e18]: "Associated people: 30"
+          - generic [ref=e19]:
+            - generic [ref=e20]: Fame 123.2
+            - generic [ref=e21]: Box 0.00
+            - generic [ref=e22]: RT 150
+          - generic [ref=e23]:
+            - paragraph [ref=e24]:
+              - link "View Box Office Mojo" [ref=e25] [cursor=pointer]:
+                - /url: https://www.boxofficemojo.com/title/tt32357218/
+            - paragraph [ref=e26]:
+              - link "View Rotten Tomatoes" [ref=e27] [cursor=pointer]:
+                - /url: https://www.rottentomatoes.com/m/shelter_2026
+      - generic [ref=e28]:
+        - heading "Leading Actor" [level=2] [ref=e29]
+        - link "Jason Statham photo Jason Statham Leading Actor" [ref=e31] [cursor=pointer]:
+          - /url: /fantasy-players/cmm6ynbgk0fa8tsa12imyen0u
+          - generic [ref=e32]:
+            - img "Jason Statham photo" [ref=e33]
+            - generic [ref=e34]:
+              - paragraph [ref=e35]: Jason Statham
+              - paragraph [ref=e36]: Leading Actor
+      - generic [ref=e37]:
+        - heading "Leading Actress" [level=2] [ref=e38]
+        - link "Bodhi Rae Breathnach photo Bodhi Rae Breathnach Leading Actress" [ref=e40] [cursor=pointer]:
+          - /url: /fantasy-players/cmm6ynbgn0fadtsa153fc73sn
+          - generic [ref=e41]:
+            - img "Bodhi Rae Breathnach photo" [ref=e42]
+            - generic [ref=e43]:
+              - paragraph [ref=e44]: Bodhi Rae Breathnach
+              - paragraph [ref=e45]: Leading Actress
+      - generic [ref=e46]:
+        - heading "Supporting Actor" [level=2] [ref=e47]
+        - generic [ref=e48]:
+          - link "Adam Collins photo Adam Collins Supporting Actor" [ref=e49] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbid0fdftsa1esaqheao
+            - generic [ref=e50]:
+              - img "Adam Collins photo" [ref=e51]
+              - generic [ref=e52]:
+                - paragraph [ref=e53]: Adam Collins
+                - paragraph [ref=e54]: Supporting Actor
+          - link "Bally Gill photo Bally Gill Supporting Actor" [ref=e55] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbh90fbhtsa1k9pl1hcq
+            - generic [ref=e56]:
+              - img "Bally Gill photo" [ref=e57]
+              - generic [ref=e58]:
+                - paragraph [ref=e59]: Bally Gill
+                - paragraph [ref=e60]: Supporting Actor
+          - link "Bill Nighy photo Bill Nighy Supporting Actor" [ref=e61] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbgw0fastsa1hr7nlwjv
+            - generic [ref=e62]:
+              - img "Bill Nighy photo" [ref=e63]
+              - generic [ref=e64]:
+                - paragraph [ref=e65]: Bill Nighy
+                - paragraph [ref=e66]: Supporting Actor
+          - link "Billy Clements photo Billy Clements Supporting Actor" [ref=e67] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbi70fd5tsa1hy588j3o
+            - generic [ref=e68]:
+              - img "Billy Clements photo" [ref=e69]
+              - generic [ref=e70]:
+                - paragraph [ref=e71]: Billy Clements
+                - paragraph [ref=e72]: Supporting Actor
+          - link "Bronson Webb photo Bronson Webb Supporting Actor" [ref=e73] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbhc0fbmtsa1yh0f49of
+            - generic [ref=e74]:
+              - img "Bronson Webb photo" [ref=e75]
+              - generic [ref=e76]:
+                - paragraph [ref=e77]: Bronson Webb
+                - paragraph [ref=e78]: Supporting Actor
+          - link "No photo Bryan Vigier Supporting Actor" [ref=e79] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbhi0fbwtsa16b6pt07t
+            - generic [ref=e80]:
+              - generic [ref=e81]: No photo
+              - generic [ref=e82]:
+                - paragraph [ref=e83]: Bryan Vigier
+                - paragraph [ref=e84]: Supporting Actor
+          - link "Daniel Mays photo Daniel Mays Supporting Actor" [ref=e85] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbhw0fcltsa149p0ik91
+            - generic [ref=e86]:
+              - img "Daniel Mays photo" [ref=e87]
+              - generic [ref=e88]:
+                - paragraph [ref=e89]: Daniel Mays
+                - paragraph [ref=e90]: Supporting Actor
+          - link "Derek Carroll photo Derek Carroll Supporting Actor" [ref=e91] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbiq0fe4tsa1o4c5mccb
+            - generic [ref=e92]:
+              - img "Derek Carroll photo" [ref=e93]
+              - generic [ref=e94]:
+                - paragraph [ref=e95]: Derek Carroll
+                - paragraph [ref=e96]: Supporting Actor
+          - link "Gordon Alexander photo Gordon Alexander Supporting Actor" [ref=e97] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ymji60c3dtsa1w7o76816
+            - generic [ref=e98]:
+              - img "Gordon Alexander photo" [ref=e99]
+              - generic [ref=e100]:
+                - paragraph [ref=e101]: Gordon Alexander
+                - paragraph [ref=e102]: Supporting Actor
+          - link "No photo Harriet Barrow Supporting Actor" [ref=e103] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbii0fdptsa1gotaahhr
+            - generic [ref=e104]:
+              - generic [ref=e105]: No photo
+              - generic [ref=e106]:
+                - paragraph [ref=e107]: Harriet Barrow
+                - paragraph [ref=e108]: Supporting Actor
+          - link "No photo Jon Slayer Supporting Actor" [ref=e109] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbig0fdktsa1cl0niywi
+            - generic [ref=e110]:
+              - generic [ref=e111]: No photo
+              - generic [ref=e112]:
+                - paragraph [ref=e113]: Jon Slayer
+                - paragraph [ref=e114]: Supporting Actor
+          - link "Kai Martin photo Kai Martin Supporting Actor" [ref=e115] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbi10fcvtsa1v5an3rki
+            - generic [ref=e116]:
+              - img "Kai Martin photo" [ref=e117]
+              - generic [ref=e118]:
+                - paragraph [ref=e119]: Kai Martin
+                - paragraph [ref=e120]: Supporting Actor
+          - link "No photo Lohan Buson Supporting Actor" [ref=e121] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbhf0fbrtsa1xqtgjn2e
+            - generic [ref=e122]:
+              - generic [ref=e123]: No photo
+              - generic [ref=e124]:
+                - paragraph [ref=e125]: Lohan Buson
+                - paragraph [ref=e126]: Supporting Actor
+          - link "Michael Shaeffer photo Michael Shaeffer Supporting Actor" [ref=e127] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbgr0faitsa1ppo78x1c
+            - generic [ref=e128]:
+              - img "Michael Shaeffer photo" [ref=e129]
+              - generic [ref=e130]:
+                - paragraph [ref=e131]: Michael Shaeffer
+                - paragraph [ref=e132]: Supporting Actor
+          - link "No photo Rodaidh Findlay Supporting Actor" [ref=e133] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbhk0fc1tsa1kt933zms
+            - generic [ref=e134]:
+              - generic [ref=e135]: No photo
+              - generic [ref=e136]:
+                - paragraph [ref=e137]: Rodaidh Findlay
+                - paragraph [ref=e138]: Supporting Actor
+          - link "No photo Ryan Fletcher Supporting Actor" [ref=e139] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbhn0fc6tsa1jhoec99s
+            - generic [ref=e140]:
+              - generic [ref=e141]: No photo
+              - generic [ref=e142]:
+                - paragraph [ref=e143]: Ryan Fletcher
+                - paragraph [ref=e144]: Supporting Actor
+          - link "Sofian Francis photo Sofian Francis Supporting Actor" [ref=e145] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ymjjq0c65tsa1vwttwiw8
+            - generic [ref=e146]:
+              - img "Sofian Francis photo" [ref=e147]
+              - generic [ref=e148]:
+                - paragraph [ref=e149]: Sofian Francis
+                - paragraph [ref=e150]: Supporting Actor
+          - link "Steven Blades photo Steven Blades Supporting Actor" [ref=e151] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbin0fdztsa1bxrz4jt8
+            - generic [ref=e152]:
+              - img "Steven Blades photo" [ref=e153]
+              - generic [ref=e154]:
+                - paragraph [ref=e155]: Steven Blades
+                - paragraph [ref=e156]: Supporting Actor
+          - link "Tom Wu photo Tom Wu Supporting Actor" [ref=e157] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbi40fd0tsa15wscudjf
+            - generic [ref=e158]:
+              - img "Tom Wu photo" [ref=e159]
+              - generic [ref=e160]:
+                - paragraph [ref=e161]: Tom Wu
+                - paragraph [ref=e162]: Supporting Actor
+          - link "Tomi May photo Tomi May Supporting Actor" [ref=e163] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbhq0fcbtsa14ox7ml44
+            - generic [ref=e164]:
+              - img "Tomi May photo" [ref=e165]
+              - generic [ref=e166]:
+                - paragraph [ref=e167]: Tomi May
+                - paragraph [ref=e168]: Supporting Actor
+      - generic [ref=e169]:
+        - heading "Supporting Actress" [level=2] [ref=e170]
+        - generic [ref=e171]:
+          - link "Anna Crilly photo Anna Crilly Supporting Actress" [ref=e172] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbgu0fantsa1nn2yce8n
+            - generic [ref=e173]:
+              - img "Anna Crilly photo" [ref=e174]
+              - generic [ref=e175]:
+                - paragraph [ref=e176]: Anna Crilly
+                - paragraph [ref=e177]: Supporting Actress
+          - link "No photo Ansko Pitkänen Supporting Actress" [ref=e178] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbht0fcgtsa1c5rphwld
+            - generic [ref=e179]:
+              - generic [ref=e180]: No photo
+              - generic [ref=e181]:
+                - paragraph [ref=e182]: Ansko Pitkänen
+                - paragraph [ref=e183]: Supporting Actress
+          - link "Celine Buckens photo Celine Buckens Supporting Actress" [ref=e184] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbh40fb7tsa1q8zuchkb
+            - generic [ref=e185]:
+              - img "Celine Buckens photo" [ref=e186]
+              - generic [ref=e187]:
+                - paragraph [ref=e188]: Celine Buckens
+                - paragraph [ref=e189]: Supporting Actress
+          - link "Eugenia Caruso photo Eugenia Caruso Supporting Actress" [ref=e190] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbh10fb2tsa14jcdhfls
+            - generic [ref=e191]:
+              - img "Eugenia Caruso photo" [ref=e192]
+              - generic [ref=e193]:
+                - paragraph [ref=e194]: Eugenia Caruso
+                - paragraph [ref=e195]: Supporting Actress
+          - link "Harriet Walter photo Harriet Walter Supporting Actress" [ref=e196] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbgz0faxtsa1x9c06h7e
+            - generic [ref=e197]:
+              - img "Harriet Walter photo" [ref=e198]
+              - generic [ref=e199]:
+                - paragraph [ref=e200]: Harriet Walter
+                - paragraph [ref=e201]: Supporting Actress
+          - link "Naomi Ackie photo Naomi Ackie Supporting Actress" [ref=e202] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbh60fbctsa136adtftk
+            - generic [ref=e203]:
+              - img "Naomi Ackie photo" [ref=e204]
+              - generic [ref=e205]:
+                - paragraph [ref=e206]: Naomi Ackie
+                - paragraph [ref=e207]: Supporting Actress
+          - link "Tara Hoyos-Martinez photo Tara Hoyos-Martinez Supporting Actress" [ref=e208] [cursor=pointer]:
+            - /url: /fantasy-players/cmm6ynbil0fdutsa1v4rmnbo3
+            - generic [ref=e209]:
+              - img "Tara Hoyos-Martinez photo" [ref=e210]
+              - generic [ref=e211]:
+                - paragraph [ref=e212]: Tara Hoyos-Martinez
+                - paragraph [ref=e213]: Supporting Actress
+      - generic [ref=e214]:
+        - heading "Director" [level=2] [ref=e215]
+        - 'link "Ric Roman Waugh photo Ric Roman Waugh Director Job: Director" [ref=e217] [cursor=pointer]':
+          - /url: /fantasy-players/cmm6ymjkj0c7ttsa1kmj7obej
+          - generic [ref=e218]:
+            - img "Ric Roman Waugh photo" [ref=e219]
+            - generic [ref=e220]:
+              - paragraph [ref=e221]: Ric Roman Waugh
+              - paragraph [ref=e222]: Director
+              - paragraph [ref=e223]: "Job: Director"
+  - button "Open Next.js Dev Tools" [ref=e229] [cursor=pointer]:
+    - img [ref=e230]
+  - alert [ref=e233]

@@ -1,0 +1,82 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Movie Fantasy" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e7]:
+          - button "Switch to light mode" [ref=e8]: Light mode
+          - button "Back" [ref=e9]
+      - heading "Zendaya" [level=1] [ref=e11]
+    - main [ref=e12]:
+      - generic [ref=e14]:
+        - img "Zendaya headshot" [ref=e15]
+        - generic [ref=e16]:
+          - paragraph [ref=e17]: "Roles: Leading Actress • Supporting"
+          - paragraph [ref=e18]: "Movies this season: 4"
+      - generic [ref=e19]:
+        - heading "2026 Season Movies" [level=2] [ref=e20]
+        - generic [ref=e21]:
+          - link "The Drama poster The Drama 4/3/2026 Fame 72.4 Box 0.00 RT 0 Open Movie" [ref=e22] [cursor=pointer]:
+            - /url: /movies/cmm6yr5160qgbtsa16560hy3z?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e23]:
+              - img "The Drama poster" [ref=e25]
+              - generic [ref=e26]:
+                - paragraph [ref=e27]: The Drama
+                - generic [ref=e28]:
+                  - generic [ref=e29]: 4/3/2026
+                  - generic [ref=e30]: Fame 72.4
+                  - generic [ref=e31]: Box 0.00
+                  - generic [ref=e32]: RT 0
+                - paragraph [ref=e33]: Open Movie
+          - link "The Odyssey poster The Odyssey 7/17/2026 Fame 217.7 Box 0.00 RT 0 Open Movie" [ref=e34] [cursor=pointer]:
+            - /url: /movies/cmm6ys2360xqbtsa1084ek5nc?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e35]:
+              - img "The Odyssey poster" [ref=e37]
+              - generic [ref=e38]:
+                - paragraph [ref=e39]: The Odyssey
+                - generic [ref=e40]:
+                  - generic [ref=e41]: 7/17/2026
+                  - generic [ref=e42]: Fame 217.7
+                  - generic [ref=e43]: Box 0.00
+                  - generic [ref=e44]: RT 0
+                - paragraph [ref=e45]: Open Movie
+          - 'link "Spider-Man: Brand New Day poster Spider-Man: Brand New Day 7/31/2026 Fame 80.3 Box 0.00 RT 0 Open Movie" [ref=e46] [cursor=pointer]':
+            - /url: /movies/cmm6ys3km0y1otsa1c7rmm45e?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e47]:
+              - 'img "Spider-Man: Brand New Day poster" [ref=e49]'
+              - generic [ref=e50]:
+                - paragraph [ref=e51]: "Spider-Man: Brand New Day"
+                - generic [ref=e52]:
+                  - generic [ref=e53]: 7/31/2026
+                  - generic [ref=e54]: Fame 80.3
+                  - generic [ref=e55]: Box 0.00
+                  - generic [ref=e56]: RT 0
+                - paragraph [ref=e57]: Open Movie
+          - 'link "Dune: Part Three poster Dune: Part Three 12/18/2026 Fame 103.0 Box 0.00 RT 0 Open Movie" [ref=e58] [cursor=pointer]':
+            - /url: /movies/cmm6ysp4x12xbtsa157jzvuir?leagueId=cmm6ykpuf0002tsa1ul31j2nw
+            - generic [ref=e59]:
+              - 'img "Dune: Part Three poster" [ref=e61]'
+              - generic [ref=e62]:
+                - paragraph [ref=e63]: "Dune: Part Three"
+                - generic [ref=e64]:
+                  - generic [ref=e65]: 12/18/2026
+                  - generic [ref=e66]: Fame 103.0
+                  - generic [ref=e67]: Box 0.00
+                  - generic [ref=e68]: RT 0
+                - paragraph [ref=e69]: Open Movie
+      - generic [ref=e70]:
+        - heading "Last Year Points Breakdown" [level=2] [ref=e71]
+        - generic [ref=e72]:
+          - paragraph [ref=e73]: "2025 total: 97.43 points (Box: 0.43 • RT: 97)"
+          - list [ref=e74]:
+            - listitem [ref=e75]:
+              - paragraph [ref=e76]: "Hans Zimmer & Friends: Diamond in the Desert (2025)"
+              - paragraph [ref=e77]: "Box office: 0.43 • RT: 97 • Total: 97.43"
+              - paragraph [ref=e78]: "Credits: Cast"
+      - generic [ref=e79]:
+        - heading "Recent Monthly Scores" [level=2] [ref=e80]
+        - paragraph [ref=e81]: No scoring snapshots yet.
+  - button "Open Next.js Dev Tools" [ref=e87] [cursor=pointer]:
+    - img [ref=e88]
+  - alert [ref=e91]

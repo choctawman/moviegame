@@ -1,0 +1,9 @@
+[    1555ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at rK (http://127.0.0.1:3000/_next/static/chunks/785867ff37483e50.js:1:46764)
+    at http://127.0.0.1:3000/_next/static/chunks/785867ff37483e50.js:1:143112
+    at sp (http://127.0.0.1:3000/_next/static/chunks/785867ff37483e50.js:1:146677)
+    at sc (http://127.0.0.1:3000/_next/static/chunks/785867ff37483e50.js:1:138017)
+    at http://127.0.0.1:3000/_next/static/chunks/785867ff37483e50.js:1:132846
+    at u9 (http://127.0.0.1:3000/_next/static/chunks/785867ff37483e50.js:1:132947)
+    at sV (http://127.0.0.1:3000/_next/static/chunks/785867ff37483e50.js:1:159329)
+    at MessagePort.O (http://127.0.0.1:3000/_next/static/chunks/785867ff37483e50.js:1:8295)
