@@ -10,9 +10,7 @@ ensure_macos
 ensure_homebrew
 setup_runtime_path
 
-set -a
-source .env
-set +a
+load_project_env
 
 print_divider
 echo "Exporting the current Postgres data into the bundled shared snapshot..."

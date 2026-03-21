@@ -80,6 +80,8 @@ if [ ! -f .env ] || [ ! -d node_modules ]; then
   exit 0
 fi
 
+load_project_env
+
 print_divider
 echo "Starting local services..."
 brew services start postgresql@16 >/dev/null 2>&1 || true

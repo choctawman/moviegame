@@ -39,7 +39,7 @@ restore_shared_snapshot_if_needed() {
 
   if shared_login_manifest_exists; then
     echo "Applying bundled tester login passwords..."
-    npx tsx src/scripts/apply-shared-login-passwords.ts >/dev/null
+    DATABASE_URL="$DATABASE_URL" npx tsx src/scripts/apply-shared-login-passwords.ts >/dev/null
   fi
 }
 
