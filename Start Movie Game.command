@@ -125,7 +125,7 @@ stop_existing_processes
 
 print_divider
 echo "Launching Movie Game..."
-nohup env PATH="$PATH" npx tsx server.ts > .logs/web.log 2>&1 &
+nohup env PATH="$PATH" npm run start > .logs/web.log 2>&1 &
 echo $! > .logs/web.pid
 
 nohup env PATH="$PATH" npx tsx src/server/worker.ts > .logs/worker.log 2>&1 &
@@ -137,9 +137,12 @@ if wait_for_http "http://127.0.0.1:3000"; then
 else
   echo "Movie Game was started, but the web server did not answer yet."
   echo "Check the logs below if the browser does not load."
+  echo
+  echo "Last lines from the web log:"
+  tail -n 40 .logs/web.log 2>/dev/null || true
 fi
 
 echo "URL: http://localhost:3000"
-echo "Commissioner login: commissioner@example.com / password123"
+echo "Shared login password: moviegame123"
 echo "Web log: $(pwd)/.logs/web.log"
 echo "Worker log: $(pwd)/.logs/worker.log"
