@@ -5,9 +5,17 @@ import { cookies } from "next/headers";
 import { env } from "@/lib/env";
 import { prisma } from "@/lib/prisma";
 
+function isSecureCookieEnabled(): boolean {
+  try {
+    return new URL(env.APP_URL).protocol === "https:";
+  } catch {
+    return process.env.NODE_ENV === "production";
+  }
+}
+
 const COOKIE_OPTIONS = {
   httpOnly: true,
-  secure: process.env.NODE_ENV === "production",
+  secure: isSecureCookieEnabled(),
   sameSite: "lax" as const,
   path: "/",
 };
