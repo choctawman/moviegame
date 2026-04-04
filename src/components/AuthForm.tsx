@@ -1,10 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import { useRouter } from "next/navigation";
 
 export function AuthForm({ mode }: { mode: "login" | "signup" }) {
-  const router = useRouter();
   const isSignup = mode === "signup";
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
@@ -19,6 +17,7 @@ export function AuthForm({ mode }: { mode: "login" | "signup" }) {
 
     const response = await fetch(`/api/auth/${mode}`, {
       method: "POST",
+      credentials: "same-origin",
       headers: {
         "Content-Type": "application/json",
       },
@@ -33,8 +32,7 @@ export function AuthForm({ mode }: { mode: "login" | "signup" }) {
       return;
     }
 
-    router.push("/");
-    router.refresh();
+    window.location.assign("/");
   }
 
   return (
